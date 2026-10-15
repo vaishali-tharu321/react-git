@@ -1,0 +1,29 @@
+.header{
+    background-color: rgb(233, 202, 27);
+    height:20px;
+    padding:30px;
+    
+}
+.link{
+  color:white;
+  margin-left:170px; 
+}
+.di{
+    background-color: black;
+    height: 30px;
+}
+.btn{
+ margin-left:150px; 
+  background-color: blue;
+  height: 30px;
+  width:90px;
+  border:none;
+  color:white;
+}
+.btn2{
+ margin-left:90px; 
+  background-color: green;
+  height: 30px;
+  width:90px;
+  border:none;
+}
